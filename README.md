@@ -22,3 +22,4 @@ Then finally the push to github using:
 git push -u origin main --force
 git push origin recovered-work
 git push origin v1.0
+git push origin master
